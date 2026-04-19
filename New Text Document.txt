@@ -1,0 +1,2 @@
+modify this file remove all dependecy on langchain. replace open ai instead replace with google gemini code. I have .env file load it as well.
+Gemini generation (`gemini-3-flash-preview`) for final answer synthesis.  model="models/gemini-embedding-001",Google Gemini embeddings for vectorization
